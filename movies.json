@@ -1,0 +1,9 @@
+[
+    {"title": "Inception", "rating": 8.8, "votes": 2000},
+    {"title": "Interstellar", "rating": 9.0, "votes": 1800},
+    {"title": "Tenet", "rating": "bad_data", "votes": 500},
+    {"title": "Oppenheimer", "rating": 9.3, "votes": 2300},
+    {"title": "Dunkirk", "rating": 7.9, "votes": 1000},
+    {"title": "Memento", "rating": 8.5, "votes": 800},
+    {"title": "Following", "rating": 7.3}
+]
